@@ -1,2 +1,1 @@
-# RetroVision
-ChatGPT said:  RetroVision is a cinematic Minecraft shader that turns the world into a dreamy winter scene with RetroVision, VHS, and Dreamcore vibes. Includes optional Bloom, Motion Blur, Gamma, and Black &amp; White effects. Works with OptiFine and Iris for screenshots, videos, and cozy gameplay.
+RetroVision is a cinematic Minecraft shader that turns the world into a dreamy winter scene with RetroVision, VHS, and Dreamcore vibes. Includes optional Bloom, Motion Blur, Gamma, and Black &amp; White effects. Works with OptiFine and Iris for screenshots, videos, and cozy gameplay.
